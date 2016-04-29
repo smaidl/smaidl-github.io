@@ -228,19 +228,18 @@ p.footer-class a:hover{
 }
 .b-animate span{
 	display:block;
-	font-size: 1.7em;
-	padding-top: 2em;
+	font-size: 1.4em;
+	padding-top: 1em;
 	display: block;
 	font-weight: 300;
 }
 .b-animate p{
-	padding: 0.2em 0 1em;
+	padding: .5em 1em 1em;
 	color: #fff;
-	font-size: 1em;
+	font-size: .9em;
 	font-weight: 400;
-	border-bottom:1px solid #fff;
 	display: inline-block;
-	margin:0 0 1em;
+	margin:1 1 1em;
 }
 .b-animate i{
 	background:url(../images/ar.png) no-repeat 0px 0px;
@@ -256,7 +255,7 @@ p.footer-class a:hover{
 .b-from-left{
 	position: relative;
 	left: -100%;
-	background:rgba(45, 184, 183, 0.81);
+	background: #4682B4;
 	background-size: 100% 100%;
 	top: 0px;
 	margin: 0;
